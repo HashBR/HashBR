@@ -1,5 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashBR&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashBR&layout=compact&langs_count=5&theme=monokai"/>
+
 ## Hi!
 
 ### Check out Betrayal Cheat Sheet (betrayal-cs) 
